@@ -50,7 +50,7 @@ This structure improves model performance, simplifies DAX calculations, and foll
 
 ## Star Schema
 
-(images/star-schema.png)
+![Star Schema](images/star-schema.png)
 
 ---
 
@@ -73,7 +73,7 @@ The Executive Summary provides a high-level view of key customer retention metri
 - Fibre optic customers show higher churn compared to DSL customers.
 - Customers with shorter tenure are substantially more likely to leave.
 
-(images/page1.png)
+![Executive Summary](images/page1.png)
 
 ---
 
@@ -92,7 +92,7 @@ This page explores how customer demographics affect churn behaviour.
 
 Identify high-risk customer groups that should be prioritised for retention initiatives.
 
-(images/page2.png)
+![Customer Segementation](images/page2.png)
 
 ---
 
@@ -113,7 +113,7 @@ This page focuses on understanding the relationship between churn and customer b
 - Electronic check customers are significantly more likely to churn.
 - Long-term contract customers demonstrate stronger retention.
 
-(images/page3.png)
+![Contract & Payment Analysis](images/page3.png)
 
 ---
 
@@ -136,7 +136,7 @@ This page investigates how subscribed services influence customer retention.
 - Lack of Tech Support is associated with increased churn risk.
 - Certain service combinations indicate higher churn propensity.
 
-(images/page4.png)
+![Service Usuage Analysis](images/page4.png)
 
 ---
 
@@ -155,7 +155,7 @@ This page quantifies the financial impact of customer churn.
 
 Prioritise retention efforts based on financial impact rather than customer volume alone.
 
-(images/page5.png)
+![Revenue Impact Analysis](images/page5.png)
 
 ---
 
@@ -177,7 +177,7 @@ Measures include:
 
 This demonstrates business impact modelling beyond traditional reporting.
 
-(images/page6.png)
+![Retention Scenario Modelling](images/page6.png)
 
 ---
 
